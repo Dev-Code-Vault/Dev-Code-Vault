@@ -15,7 +15,7 @@ LEARN-Sat, a 2U CubeSat
 - Writing Interface Control Documents (ICDs) for connectors, power rails, and I²C/SPI/UART links between boards
 
 **NASA Ames–Sponsored Senior Capstone · Hardware Lead**
-- Leading hardware design of a CubeSat electrical power system (EPS) for NASA Ames' hardware-in-the-loop flight-software testbed
+- Hardware design of a CubeSat electrical power system (EPS) for NASA Ames' hardware-in-the-loop flight-software testbed
 - Covers solar MPPT charging, battery management, and DC-DC power distribution
 
 ## 🔧 Skills
